@@ -18,5 +18,10 @@ Another aim of this repo is to teach. I have been learning a lot lately. I have 
 ## Object measurement 
 The [**`scale_calculation`**](https://github.com/nikhilpandey360/Applied_Computer_vision/tree/master/scale_calculation) shows how to calculate scale or in other word how to measure using computer vision. In it we have used an object as marker to determine the length of the other object. It is coupled with [**`object_measurement`**](https://github.com/nikhilpandey360/Applied_Computer_vision/tree/master/object_measurement). Together, they provide an effective way of measuring a segmented object.
 
+
+
+## Object exraction
+The [**`object_extraction`**](https://github.com/nikhilpandey360/Applied_Computer_vision/tree/master/object_extraction) contains method of locating and extract the object entirely from background. This not the usual foreground-background removal but a but more in terms of contouring and extraction. 
+
 [**Under development**]
 
