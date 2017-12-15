@@ -20,7 +20,7 @@ The [**`scale_calculation`**](https://github.com/nikhilpandey360/Applied_Compute
 
 
 
-## Object exraction
+## Object extraction
 The [**`object_extraction`**](https://github.com/nikhilpandey360/Applied_Computer_vision/tree/master/object_extraction) contains method of locating and extract the object entirely from background. This not the usual foreground-background removal but a but more in terms of contouring and extraction. 
 
 [**Under development**]
